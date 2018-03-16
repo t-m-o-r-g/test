@@ -11,7 +11,7 @@ template: front
   "teaserType": "frontSplit",
   "byline": null,
   "onlyImage": false,
-  "url": null,
+  "url": "https://github.com/t-m-o-r-g/article-testsetestset?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
@@ -26,37 +26,7 @@ template: front
 
 ###### 
 
-# Das ist ein neuer Titel
-
-#### 
-
-
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "frontTypo",
-  "byline": null,
-  "onlyImage": false,
-  "url": "https://github.com/t-m-o-r-g/article-testsetestset?autoSlug",
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "titleSize": "standard",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### 
-
-# Ein neuer Titel
+# Noch etwas anders
 
 #### Mit einem Lead
 
