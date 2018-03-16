@@ -7,6 +7,38 @@ template: front
 ```
 {
   "reverse": false,
+  "color": "#5c00a8",
+  "teaserType": "frontSplit",
+  "byline": null,
+  "onlyImage": false,
+  "url": null,
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#f37c7c"
+}
+```
+
+![](images/b09ac7a521f0e5055df6c204a2d69966162a7998.jpeg?size=4032x3024)
+
+###### 
+
+# Das ist ein neuer Titel
+
+#### 
+
+
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
   "color": "#000",
   "teaserType": "frontTypo",
   "byline": null,
